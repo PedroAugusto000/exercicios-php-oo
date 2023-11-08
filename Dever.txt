@@ -1,0 +1,10 @@
+Codificar os seguintes exercícios: 123.d, 124, 125.c, 126.a, 126.d, 127 e 129 do livro "PHP na Prática", de Júlia Marques Carvalho da Silva.
+
+Cada exercício deverá ser codificado em um ou mais arquivos (no caso de ser mais de um arquivo, considere criar uma pasta para o exercício).
+
+Para os exercícios 125.c, 126.a e 126.d, além da definição da classe, codifique também um programa para testar a classe que foi criada, como fizemos em sala para o exercício 124.
+
+Crie um repositório no GitHub. Crie uma página index.html que deve ter um link para cada um dos exercícios.
+
+Na página index.html deve constar os nomes dos participantes do grupo.
+
